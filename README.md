@@ -1,4 +1,4 @@
-# stock price prediction from historical time series and news articles
+# Stock price prediction from historical time series and news articles
 
 ABSTRACT
 The stock market is a widely used investment scheme. Numerous companies are constantly trying
