@@ -1,6 +1,6 @@
 # Stock price prediction from historical time series and news articles
 
-ABSTRACT
+# ABSTRACT
 The stock market is a widely used investment scheme. Numerous companies are constantly trying
 to integrate state-of-the-art computer science techniques into their strategic plans. The basic idea behind
 these techniques is to fully automate the generation of predictions regarding the market’s movement. More
