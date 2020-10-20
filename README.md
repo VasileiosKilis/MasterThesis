@@ -15,7 +15,7 @@ classifier and also solved the problem via the traditional method of logistic re
 single-step model had a mean absolute error (MAE) of 1.75, our multi-step model had a 2.68 MAE and the
 ARIMA model had a 3.76 MAE. Finally, we got a 52 percent accuracy from our sentiment analysis methods.
 
-# GitLab repository
+# GitHub repository
 
 The files single-step prediction and multi-step prediction with LSTM describe the experiments
 we did in chapter 4. These files run without any problems if you have all the modules installed.
